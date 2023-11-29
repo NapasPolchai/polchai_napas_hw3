@@ -16,7 +16,7 @@ body {
     background-blend-mode: overlay;
     background-repeat: no-repeat;
     font-size: 16px;
-    font-family: Space Grotesk;
+    font-family: Space Grotesk, Arial, Helvetica, sans-serif;
     color: white;
     margin: 0;
     min-height: 100vh;
