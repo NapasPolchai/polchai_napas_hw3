@@ -131,7 +131,6 @@ input[type="checkbox"]:checked + label.checkbox-label::before {
     border: 2px solid #7B66FF;
     font-size: 16px;
     text-align: center;
-    line-height: auto;
     animation: fadein 0.7s;
     position: absolute;
     top: -10px;
